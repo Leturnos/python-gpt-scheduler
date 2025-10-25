@@ -27,12 +27,3 @@ O principal desafio deste projeto é explorar a viabilidade de construir essa so
 * **Banco de Dados:** SQLite.
   
 ## 🚀 Como Executar o Projeto (Em breve)
-
-
-4.  Configure as variáveis de ambiente:
-    * Crie um arquivo `.env` e adicione suas chaves de API (ex: `OPENAI_API_KEY`, `EMAIL_PASSWORD`).
-
-5.  Execute a aplicação:
-    ```bash
-    python main.py
-    ```
